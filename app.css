@@ -1,6 +1,6 @@
 /* HERO SECTION */
 #hero {
-    height: 75vh;
+    height: 50vh;
 
     /* // make everything center in css */
     display: flex;
@@ -40,3 +40,4 @@
     list-style-type : none;
     padding: 0;
 }
+
