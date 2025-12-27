@@ -1,6 +1,6 @@
 /* HERO SECTION */
 #hero {
-    height: 50vh;
+    height: 75vh;
 
     /* // make everything center in css */
     display: flex;
@@ -16,7 +16,8 @@
 }
 #hero-image{
     /* width: 450px; */
-    width: 70%;
+    width: 450px;
+    height: 450px;
 }
 
 /* CATEGORY SECTION */
@@ -40,4 +41,5 @@
     list-style-type : none;
     padding: 0;
 }
+
 
